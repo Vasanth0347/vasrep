@@ -2,6 +2,7 @@
 int main()
 {
  int n;
+ dfnweksfhkidjak;fj
  scanf("%d",&n)
  if(n==0)
    printf("0");
