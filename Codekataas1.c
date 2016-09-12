@@ -4,7 +4,7 @@ int main()
  int n;
  sdfsadfe
  dfnweksfhkidjak;fj
- scanf("%d",&n)
+ scanf("%d",&n)wr
  if(n==0)
    printf("0");
  else if(n>0)
