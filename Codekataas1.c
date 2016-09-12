@@ -2,7 +2,7 @@
 int main()
 {
  int n;
- sdfsa
+ sdfsadfe
  dfnweksfhkidjak;fj
  scanf("%d",&n)
  if(n==0)
