@@ -11,6 +11,6 @@ int main()
    printf("Positive");
  else if(n<0)
    printf("Negative");
- return 0;
+ return 0;sdfsdf
 }
 wd
